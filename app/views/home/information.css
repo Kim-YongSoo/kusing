@@ -1,0 +1,114 @@
+.container {
+    width : 960px;
+    display: block;
+    text-align : center;
+    margin:0 auto;
+}
+nav {
+    width : 100%;
+    height : 70px;
+    /*background-image: url("http://mblogthumb2.phinf.naver.net/20120806_193/barky3314_1344252927513NGRLg_JPEG/14.jpg?type=w2");
+    bassckground-size: auto;*/
+    background-color:#f7f7f7;
+    margin:0;
+
+}
+
+.navbar-bg{
+   color: #f06292;
+}
+
+nav div a{
+    margin-left:30px;
+}
+
+.navbar-brand {
+        color:gray;
+    font-family: 'Baloo Bhaina', cursive;
+
+    margin-left:150px;
+}
+
+
+nav p{
+    display: inline;
+    font-size: 15px;
+    padding-right : 15px;
+}
+
+.nav-item{
+    margin: 20px;
+}
+
+header {
+    width : 100%;
+    height : 800px;
+    /*background-image: url("https://www.intercontent.co.kr/storage/fanmake/content/d/2/2/4/e/a/b/d224eab12b0643a1764c4883ea8c0850/image/10001/0c096fb8c141f93370ce4713b43288c6.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;*/
+    margin-bottom:10px;
+}
+
+
+header h2{
+    margin: 0;
+    text-align : center;
+    padding-top : 100px;
+    font-size : 60px;
+    color: #03a9f4;
+    font-family: 'Baloo Bhaina', cursive;
+
+}
+
+header p{
+    text-align: center;
+    font-size : 18px;
+    width : 960px;
+    padding-top : 50px;
+    margin:auto;
+    color:black;
+    /*olor: #f06292;*/
+    font-family: 'Varela Round', sans-serif;
+}
+
+section {
+    width :100%;
+    padding-top:100px;
+    padding-bottom:70px;
+    background-image:url(http://images.gofreedownload.net/leather-texture-235646.jpg);
+}
+
+/*article{
+    margin:0 auto;
+    display:inline-block !important;
+}
+
+article img{
+    width: 310px;
+    height: 310px;
+}*/
+
+/*.panel-footer{
+    color:#FFFFFF;
+    font-family: 'Baloo Bhaina', cursive;
+    display:inline;
+}*/
+
+article span{
+    display: inline;
+}
+
+
+footer {
+    width : 100%;
+    height : 150px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    /*background-image: url(http://cfs.tistory.com/attach/5747/1154285607.jpg);*/
+    background-color : gray;
+}
+
+footer p{
+    margin:0 auto;
+     font-family: 'Baloo Bhaina', cursive;
+}

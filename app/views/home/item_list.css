@@ -1,0 +1,37 @@
+.jumbotron {
+    height:200px;
+}
+.explainpage {
+    margin:0px;
+}
+li a {
+    font-size: 12px;
+}
+.red{
+    color:red;
+}
+.green {
+    color:green;
+}
+.fruitname {
+    color:black;
+}
+footer {
+    height:100px;
+    border-top:2px solid green;
+}
+footer p {
+    margin-top:2px;
+    margin-bottom: 2px;
+}
+img {
+    width:100%;
+    height:200px;
+}
+img:hover {
+    opacity: 0.5;
+}
+.CI {
+    width:30px;
+    height:30px;
+}
